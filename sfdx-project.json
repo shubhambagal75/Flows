@@ -1,0 +1,22 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "TaskFlow",
+      "versionName": "Version 1.0",
+      "versionNumber": "1.0.0.NEXT",
+      "versionDescription": "Task Flow and Quick Action"
+    }
+  ],
+  "name": "Flows",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "58.0",
+  "packageAliases": {
+    "TaskFlow": "0Ho2t000000fxUvCAI",
+    "TaskFlow@1.0.0-1": "04t2t000000gTxwAAE",
+    "TaskFlow@1.0.0-2": "04t2t000000gTy1AAE",
+    "TaskFlow@1.0.0-3": "04t2t000000gTy6AAE"
+  }
+}
